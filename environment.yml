@@ -1,0 +1,16 @@
+name: movie-recommender-kaggle
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy
+  - pandas
+  - scipy
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - jupyterlab
+  - notebook
+  - ipykernel
+  - tqdm
+  - pip
